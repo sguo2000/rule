@@ -1,1 +1,1 @@
-# openwrt-rule-
+# openwrt rule
