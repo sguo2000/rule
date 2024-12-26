@@ -25,6 +25,12 @@ IP-CIDR,114.114.114.114/32,no-resolve
 IP-CIDR,114.114.115.115/32,no-resolve
 
 
+# m-team
+DOMAIN-SUFFIX,m-team.cc
+DOMAIN-SUFFIX,hdhome.org
+DOMAIN-SUFFIX,pthome.net
+DOMAIN-SUFFIX,springsunday.net
+
 # 360
 DOMAIN-SUFFIX,360.com
 DOMAIN-SUFFIX,360kuai.com
