@@ -27,6 +27,7 @@ IP-CIDR,114.114.115.115/32,no-resolve
 
 # movie
 DOMAIN-SUFFIX,m-team.cc
+DOMAIN-SUFFIX,m-team.io
 DOMAIN-SUFFIX,hdhome.org
 DOMAIN-SUFFIX,pthome.net
 DOMAIN-SUFFIX,springsunday.net
