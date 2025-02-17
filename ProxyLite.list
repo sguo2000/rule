@@ -4,10 +4,12 @@
 DOMAIN-SUFFIX,qichiyu.com
 DOMAIN-SUFFIX,feiniaoyun.top
 DOMAIN-SUFFIX,feiniaoyun.xyz
+DOMAIN-SUFFIX,tubitv.com
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,1e100
 DOMAIN-KEYWORD,feiniaoyun
+DOMAIN-KEYWORD,tubitv
 
 # 国外DNS
 DOMAIN-SUFFIX,dns.google
