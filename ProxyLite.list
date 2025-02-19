@@ -8,6 +8,8 @@ DOMAIN-SUFFIX,tubitv.com
 DOMAIN-SUFFIX,767887.xyz
 DOMAIN-SUFFIX,feiniaoyun13.life
 DOMAIN-SUFFIX,metacubex.one
+DOMAIN-SUFFIX,ipify.org
+
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,1e100
@@ -19,6 +21,7 @@ DOMAIN-KEYWORD,feiniaoyun13
 DOMAIN-KEYWORD,life
 DOMAIN-KEYWORD,top
 DOMAIN-KEYWORD,metacubex
+DOMAIN-KEYWORD,ipify
 
 # 国外DNS
 DOMAIN-SUFFIX,dns.google
