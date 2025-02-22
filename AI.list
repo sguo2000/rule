@@ -4,6 +4,14 @@ DOMAIN-KEYWORD,openai
 DOMAIN-KEYWORD,anthropic
 DOMAIN-KEYWORD,Claude
 
+DOMAIN-SUFFIX,feiniaoyun.top
+DOMAIN-SUFFIX,feiniaoyun.xyz
+DOMAIN-SUFFIX,tubitv.com
+DOMAIN-SUFFIX,767887.xyz
+DOMAIN-SUFFIX,feiniaoyun13.life
+DOMAIN-SUFFIX,metacubex.one
+DOMAIN-SUFFIX,ipify.org
+
 # 域名后缀匹配
 DOMAIN-SUFFIX,perplexity.ai
 DOMAIN-SUFFIX,chatgpt.com
