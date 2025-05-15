@@ -18,8 +18,8 @@ DOMAIN-SUFFIX,feiniaoyun13.life
 # DOMAIN-SUFFIX,6bcloud.top
 # DOMAIN-SUFFIX,6bsub.zhunchuanpb.com
 # DOMAIN-SUFFIX,5.6bcloud.top
-DOMAIN-SUFFIX,6666b.idsduf.com
-DOMAIN-SUFFIX,idsduf.com
+# DOMAIN-SUFFIX,6666b.idsduf.com
+# DOMAIN-SUFFIX,idsduf.com
 
 # From https://github.com/ACL4SSR/ACL4SSR/issues/121#issuecomment-1793673237
 DOMAIN-SUFFIX,bing.com
@@ -41,7 +41,7 @@ DOMAIN-KEYWORD,qookkagames
 
 # DOMAIN-KEYWORD,zhunchuanpb
 # DOMAIN-KEYWORD,6bcloud
-DOMAIN-KEYWORD,idsduf
+# DOMAIN-KEYWORD,idsduf
 
 # 国外DNS
 DOMAIN-SUFFIX,dns.google
