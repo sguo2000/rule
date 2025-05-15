@@ -2,14 +2,18 @@
 
 # 域名后缀匹配
 DOMAIN-SUFFIX,qichiyu.com
-DOMAIN-SUFFIX,feiniaoyun.top
-DOMAIN-SUFFIX,feiniaoyun.xyz
 DOMAIN-SUFFIX,tubitv.com
 DOMAIN-SUFFIX,767887.xyz
-DOMAIN-SUFFIX,feiniaoyun13.life
 DOMAIN-SUFFIX,metacubex.one
 DOMAIN-SUFFIX,ipify.org
 DOMAIN-SUFFIX,qookkagames.com
+
+# 飞鸟云机场
+DOMAIN-SUFFIX,feiniaoyun.top
+DOMAIN-SUFFIX,feiniaoyun.xyz
+DOMAIN-SUFFIX,feiniaoyun13.life
+
+# 牛逼机场
 DOMAIN-SUFFIX,zhunchuanpb.com
 DOMAIN-SUFFIX,6bcloud.top
 DOMAIN-SUFFIX,6bsub.zhunchuanpb.com
