@@ -6,6 +6,7 @@
 
 DOMAIN-SUFFIX,iosapps.itunes.apple.com
 DOMAIN-SUFFIX,iosapps.itunes.g.aaplimg.com
+DOMAIN-SUFFIX,github.moeyy.xyz
 
 # DOMAIN-SUFFIX,m-team.cc
 
@@ -14,3 +15,4 @@ DOMAIN-SUFFIX,iosapps.itunes.g.aaplimg.com
 # DOMAIN-KEYWORD,
 # DOMAIN-KEYWORD,m-team
 DOMAIN-KEYWORD,iosapps
+DOMAIN-KEYWORD,imoeyy
