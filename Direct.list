@@ -158,6 +158,13 @@ DOMAIN-SUFFIX,zijieimg.com
 DOMAIN-SUFFIX,zjbyte.com
 DOMAIN-SUFFIX,zjcdn.com
 
+# 剪映（个人增加）
+DOMAIN-SUFFIX,faceu.mobi
+DOMAIN-SUFFIX,bytedns1.com
+DOMAIN-SUFFIl,queniuyk.com
+DOMAIN-SUFFIX,pangolin-sdk-toutiao.com
+DOMAIN-SUFFIX,pangolin-sdk-toutiao1.com
+
 # CCTV
 DOMAIN-SUFFIX,cctv.com
 DOMAIN-SUFFIX,cctvpic.com
