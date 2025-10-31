@@ -26,6 +26,9 @@ DOMAIN-SUFFIX,fn2.fnxx.cc
 # DOMAIN-SUFFIX,6666b.idsduf.com
 # DOMAIN-SUFFIX,idsduf.com
 
+IP-CIDR,8.138.135.231/32,故障转移
+
+
 # From https://github.com/ACL4SSR/ACL4SSR/issues/121#issuecomment-1793673237
 DOMAIN-SUFFIX,bing.com
 DOMAIN-SUFFIX,copilot.cloud.microsoft
