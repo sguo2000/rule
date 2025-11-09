@@ -32,6 +32,10 @@ DOMAIN-KEYWORD,zhuzhuzhu
 # 红杏云机场
 IP-CIDR,43.139.213.75/32,故障转移
 
+# 良心云机场
+DOMAIN-SUFFIX,liangxin.xyz
+DOMAIN-KEYWORD,liangxin
+
 
 # From https://github.com/ACL4SSR/ACL4SSR/issues/121#issuecomment-1793673237
 DOMAIN-SUFFIX,bing.com
