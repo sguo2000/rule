@@ -8,6 +8,26 @@ DOMAIN-SUFFIX,iosapps.itunes.apple.com
 DOMAIN-SUFFIX,iosapps.itunes.g.aaplimg.com
 DOMAIN-SUFFIX,github.moeyy.xyz
 
+# App Store 必须直连(2026-08-12)
+# 实测: 走代理 App Store 进不去; bag-cdn/is-ssl 是 App Store CDN(v2fly 标注 @cn 应直连)
+# ⚠️ 不能用 DOMAIN-SUFFIX,itunes.apple.com: 会把 podcasts.itunes.apple.com(播客,须代理)也抢走直连
+#    必须精确列出 App Store 子域(v2fly itunes 集合 @cn 项)
+DOMAIN,itunes.apple.com
+DOMAIN-SUFFIX,apps.apple.com
+DOMAIN-SUFFIX,play.itunes.apple.com
+DOMAIN-SUFFIX,search.itunes.apple.com
+DOMAIN-SUFFIX,pd.itunes.apple.com
+DOMAIN-SUFFIX,pd-nk.itunes.apple.com
+DOMAIN-SUFFIX,se-edge.itunes.apple.com
+DOMAIN-SUFFIX,se2.itunes.apple.com
+DOMAIN-SUFFIX,myapp.itunes.apple.com
+DOMAIN-SUFFIX,misc-assets.itunes.apple.com
+DOMAIN-SUFFIX,streamingaudio.itunes.apple.com
+DOMAIN-SUFFIX,bag-cdn.itunes-apple.com.akadns.net
+DOMAIN-SUFFIX,is-ssl.mzstatic.com-cn-lb.itunes-apple.com.akadns.net
+DOMAIN-SUFFIX,aaplimg.com
+DOMAIN-SUFFIX,mzstatic.com
+
 # DOMAIN-SUFFIX,m-team.cc
 
 # 域名关键字匹配
