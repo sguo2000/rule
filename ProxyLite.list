@@ -83,10 +83,12 @@ IP-CIDR,185.222.222.222/32,no-resolve
 IP-CIDR,208.67.222.222/32,no-resolve
 IP-CIDR,208.67.220.220/32,no-resolve
 
-# 播客走代理(2026-08-11)
-# 核心后缀:播客 API/音频流/RSS 全走 itunes-apple.com(amp-api.podcasts-lb / audio-ssl / rss / podcasts-cdn)
-# 2026-08-12 实测直连不通(198.20.1.x 超时),必须代理;podcasts.apple.com 解析也指向 itunes-apple.com CDN
+# 播客走代理(2026-08-11,2026-08-12 扩充)
+# 核心:itunes-apple.com 覆盖播客 API/音频流/RSS(amp-api.podcasts-lb / audio-ssl / rss / podcasts-cdn)
+# applepodcasts.com = Apple Podcasts 节目目录/订阅域名(v2fly apple-podcasts 集合)
+# podcasts.apple.com 解析指向 itunes-apple.com CDN;直连搜不到部分国外节目,必须全走代理
 DOMAIN-SUFFIX,itunes-apple.com
+DOMAIN-SUFFIX,applepodcasts.com
 DOMAIN-SUFFIX,podcasts.apple.com
 DOMAIN-SUFFIX,megaphone.fm
 DOMAIN-SUFFIX,omny.fm
