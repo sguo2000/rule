@@ -87,6 +87,8 @@ IP-CIDR,208.67.220.220/32,no-resolve
 # SUFFIX,itunes-apple.com 覆盖音频流/RSS(audio-ssl / rss / play-edge 等,不含 podcasts 字样)
 # ⚠️ 不能用 KEYWORD,itunes-apple: 会误伤 App Store CDN(bag-cdn.itunes-apple.com.akadns.net 等 @cn 直连域名)
 # applepodcasts.com = 节目目录/订阅(v2fly apple-podcasts 集合)
+
+
 DOMAIN-KEYWORD,podcasts
 DOMAIN-SUFFIX,itunes-apple.com
 DOMAIN-SUFFIX,applepodcasts.com
@@ -103,3 +105,4 @@ DOMAIN-SUFFIX,anchor.fm
 DOMAIN-SUFFIX,spreaker.com
 DOMAIN-SUFFIX,acast.com
 DOMAIN-SUFFIX,audioboom.com
+DOMAIN-SUFFIX,amp-api.podcasts-lb.itunes-apple.com.akadns.net
