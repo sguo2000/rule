@@ -85,9 +85,12 @@ IP-CIDR,208.67.220.220/32,no-resolve
 # 核心:itunes-apple.com 覆盖播客 API/音频流/RSS(amp-api.podcasts-lb / audio-ssl / rss / podcasts-cdn)
 # 实测部分域名带 .akadns.net(Akamai DNS 后缀)如 amp-api.podcasts-lb.itunes-apple.com.akadns.net
 #   → SUFFIX 匹配不到,必须用 KEYWORD 子串匹配(itunes-apple 是 Apple 专用子串,不会误伤)
+# podcasts.itunes.apple.com 是播客 API 的另一种形式(不含 itunes-apple 连字串,单独 KEYWORD 覆盖,
+#   含 amp-api.podcasts.itunes.apple.com / .akadns.net 等变体)
 # applepodcasts.com = Apple Podcasts 节目目录/订阅域名(v2fly apple-podcasts 集合)
 # 直连搜不到部分国外节目,必须全走代理
 DOMAIN-KEYWORD,itunes-apple
+DOMAIN-KEYWORD,podcasts.itunes.apple.com
 DOMAIN-SUFFIX,itunes-apple.com
 DOMAIN-SUFFIX,applepodcasts.com
 DOMAIN-SUFFIX,podcasts.apple.com
